@@ -1,0 +1,11 @@
+D:\Split Bill\SplitbillClassLibrary\obj\Debug\net8.0\SplitbillClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Split Bill\SplitbillClassLibrary\obj\Debug\net8.0\SplitbillClassLibrary.AssemblyInfoInputs.cache
+D:\Split Bill\SplitbillClassLibrary\obj\Debug\net8.0\SplitbillClassLibrary.AssemblyInfo.cs
+D:\Split Bill\SplitbillClassLibrary\obj\Debug\net8.0\SplitbillClassLibrary.csproj.CoreCompileInputs.cache
+D:\Split Bill\SplitbillClassLibrary\bin\Debug\net8.0\SplitbillClassLibrary.deps.json
+D:\Split Bill\SplitbillClassLibrary\bin\Debug\net8.0\SplitbillClassLibrary.dll
+D:\Split Bill\SplitbillClassLibrary\bin\Debug\net8.0\SplitbillClassLibrary.pdb
+D:\Split Bill\SplitbillClassLibrary\obj\Debug\net8.0\SplitbillClassLibrary.dll
+D:\Split Bill\SplitbillClassLibrary\obj\Debug\net8.0\refint\SplitbillClassLibrary.dll
+D:\Split Bill\SplitbillClassLibrary\obj\Debug\net8.0\SplitbillClassLibrary.pdb
+D:\Split Bill\SplitbillClassLibrary\obj\Debug\net8.0\ref\SplitbillClassLibrary.dll
